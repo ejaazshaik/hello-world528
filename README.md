@@ -1,2 +1,5 @@
 # hello-world528
-A sample project for CIS 528
+
+Hello fellas!!
+
+This is a sample project for CIS 528
